@@ -1,0 +1,15 @@
+{
+  "kind": "column",
+  "title": "Monthly sign-ups doubled from 2022 to 2025",
+  "subtitle": "Average sign-ups per month, 2021-2025. The 2022 dip followed the pricing change.",
+  "y": {"label": "Sign-ups per month", "unit": "people", "min": 0},
+  "x": {"label": ""},
+  "series": [{"name": "Sign-ups", "points": [["2021", 1200], ["2022", 1100], ["2023", 1500], ["2024", 1900], ["2025", 2300]]}],
+  "labels": "direct",
+  "value_labels": "some",
+  "gridlines": "light",
+  "decoration": [],
+  "annotations": [{"text": "Pricing change", "at": "2022"}],
+  "source": "Product database, accounts table, pulled 2026-01-05",
+  "alt": "Column chart: monthly sign-ups fell from 1,200 in 2021 to 1,100 in 2022, then rose every year to 2,300 in 2025, about twice the 2022 level."
+}

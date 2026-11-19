@@ -1,0 +1,15 @@
+{
+  "kind": "column",
+  "title": "Column chart of monthly sign-ups",
+  "subtitle": "Sign-ups surged 120% since 2022. Hover a bar for details.",
+  "y": {"label": "Sign-ups", "unit": "", "min": 1000},
+  "x": {"label": "Year"},
+  "series": [{"name": "Sign-ups", "points": [["2021", 1200], ["2022", 1100], ["2023", 1500], ["2024", 1900], ["2025", 2300]]}],
+  "labels": "legend",
+  "value_labels": "all",
+  "gridlines": "dense",
+  "decoration": ["3d", "drop shadow"],
+  "annotations": [],
+  "source": "",
+  "alt": "Bar chart of sign-ups"
+}
